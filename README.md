@@ -71,4 +71,7 @@ The mod includes an **auto-sort button** for your inventory:
 ## Updates
 I will keep this mod updated and post future improvements and new features here.
 
+If you want to support this project:
+- PayPal: paypal.me/freshbuzz1996
+
 Thanks for checking it out!
